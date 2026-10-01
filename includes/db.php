@@ -1,7 +1,7 @@
 <?php
 // Database connection settings.
 // Update these four values to match your MySQL server / hosting account.
-define('DB_HOST', 'localhost');
+define('DB_HOST', '127.0.0.1');
 define('DB_NAME', 'darsluxurycars');
 define('DB_USER', 'root');
 define('DB_PASS', '');

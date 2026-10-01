@@ -16,18 +16,14 @@ require __DIR__ . '/includes/header.php';
   <div class="container">
 
     <div class="car-gallery">
-      <div style="border-radius:4px; overflow:hidden;">
-        <img src="/assets/images/bentley-mulsanne.jpg" alt="2018 Bentley Mulsanne — front three-quarter view" style="width:100%; height:100%; object-fit:cover;">
+      <div class="gallery-item full-width">
+        <img src="/assets/images/car4.png" alt="2018 Bentley Mulsanne">
       </div>
-      <div class="img-placeholder">
-        <span class="ph-icon">🖼</span>
-        <span class="ph-label">Exterior</span>
-        <span class="ph-dims">800 × 600px</span>
+      <div class="gallery-item">
+        <img src="/assets/images/Interior1.png" alt="2018 Bentley Mulsanne interior">
       </div>
-      <div class="img-placeholder">
-        <span class="ph-icon">🖼</span>
-        <span class="ph-label">Interior</span>
-        <span class="ph-dims">800 × 600px</span>
+      <div class="gallery-item">
+        <img src="/assets/images/Interior2.png" alt="2018 Bentley Mulsanne interior details">
       </div>
     </div>
 

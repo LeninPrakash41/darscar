@@ -15,9 +15,8 @@ require __DIR__ . '/includes/header.php';
         <a href="/bentley-mulsanne.php" class="btn btn-outline">View Our Fleet</a>
       </div>
     </div>
-
     <div class="hero-image-slot">
-      <img src="/assets/images/bentley-mulsanne.jpg" alt="2018 Bentley Mulsanne">
+      <img src="/assets/images/car.png" alt="2018 Bentley Mulsanne">
     </div>
   </div>
 </section>
@@ -44,7 +43,7 @@ require __DIR__ . '/includes/header.php';
     <div class="fleet-grid">
       <div class="card">
         <div class="card-media">
-          <img src="/assets/images/bentley-mulsanne.jpg" alt="2018 Bentley Mulsanne" style="width:100%; height:100%; object-fit:cover;">
+          <img src="/assets/images/car4.png" alt="2018 Bentley Mulsanne" style="width:100%; height:100%; object-fit:cover;">
         </div>
         <div class="card-body">
           <span class="card-tag">Full-Size Luxury Sedan</span>
