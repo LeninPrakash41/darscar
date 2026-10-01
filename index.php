@@ -79,17 +79,17 @@ require __DIR__ . '/includes/header.php';
         <p>Flight tracking, meet-and-greet and door-to-door transfers for a stress-free arrival or departure.</p>
       </div>
       <div class="service-card">
-        <div class="icon">💼</div>
+        <img src="/assets/images/suitcase.png" alt="Corporate Travel Icon" class="icon">
         <h3>Corporate Travel</h3>
         <p>Reliable, punctual transportation for executives, roadshows and corporate events.</p>
       </div>
       <div class="service-card">
-        <div class="icon">💍</div>
+        <img src="/assets/images/ring.png" alt="Weddings & Events Icon" class="icon">
         <h3>Weddings &amp; Events</h3>
         <p>Make a grand entrance with a chauffeured Bentley for your wedding or special celebration.</p>
       </div>
       <div class="service-card">
-        <div class="icon">🕐</div>
+        <img src="/assets/images/hour.png" alt="Hourly Chauffeur Icon" class="icon">
         <h3>Hourly Chauffeur</h3>
         <p>Book by the hour and keep your car and driver on standby for as long as you need.</p>
       </div>
@@ -106,7 +106,8 @@ require __DIR__ . '/includes/header.php';
 
     <div class="why-grid">
       <div class="why-item">
-        <div class="icon">🎩</div>
+      
+        <div class="icon"><img src="/assets/images/professional 2.png" alt="Professional Chauffeurs Icon"></div>
         <h4>Professional Chauffeurs</h4>
         <p>Licensed, background-checked and trained in luxury service etiquette.</p>
       </div>
@@ -116,7 +117,7 @@ require __DIR__ . '/includes/header.php';
         <p>Comprehensive commercial insurance on every vehicle and every trip.</p>
       </div>
       <div class="why-item">
-        <div class="icon">📍</div>
+        <div class="icon"><img src="/assets/images/world 2.png" alt="Nationwide Coverage Icon"></div>
         <h4>Nationwide Coverage</h4>
         <p>Serving major metro areas with airport and long-distance transfers.</p>
       </div>
