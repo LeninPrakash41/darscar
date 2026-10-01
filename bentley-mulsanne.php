@@ -16,7 +16,7 @@ require __DIR__ . '/includes/header.php';
   <div class="container">
 
     <div class="car-gallery">
-      <div class="gallery-item full-width">
+      <div class="gallery-main">
         <img src="/assets/images/car4.png" alt="2018 Bentley Mulsanne">
       </div>
       <div class="gallery-item">
