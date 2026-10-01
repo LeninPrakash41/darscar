@@ -106,8 +106,7 @@ require __DIR__ . '/includes/header.php';
 
     <div class="why-grid">
       <div class="why-item">
-      
-        <div class="icon"><img src="/assets/images/professional 2.png" alt="Professional Chauffeurs Icon"></div>
+        <div class="icon"><img src="/assets/images/professional 2.png" alt="Professional Chauffeurs Icon" class="icon1"></div>
         <h4>Professional Chauffeurs</h4>
         <p>Licensed, background-checked and trained in luxury service etiquette.</p>
       </div>
@@ -117,7 +116,7 @@ require __DIR__ . '/includes/header.php';
         <p>Comprehensive commercial insurance on every vehicle and every trip.</p>
       </div>
       <div class="why-item">
-        <div class="icon"><img src="/assets/images/world 2.png" alt="Nationwide Coverage Icon"></div>
+        <div class="icon"><img src="/assets/images/world 2.png" alt="Nationwide Coverage Icon" class="icon1"></div>
         <h4>Nationwide Coverage</h4>
         <p>Serving major metro areas with airport and long-distance transfers.</p>
       </div>

@@ -704,4 +704,9 @@ table.admin-table .row-actions form { display: inline; }
   .admin-topbar-inner { flex-wrap: wrap; height: auto; padding: 16px 0; }
   .admin-nav { order: 3; width: 100%; flex-wrap: wrap; gap: 16px; }
 }
-
+.icon1{
+  text-align: center;
+  width: 50px;
+  height: 50px;
+  margin: 0 auto 18px;
+}
